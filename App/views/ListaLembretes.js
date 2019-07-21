@@ -59,7 +59,7 @@ export default class ListaLembretes extends Component {
 
 const styles = StyleSheet.create({
     container: {
-        paddingTop: 50
+        paddingTop: 35
     },
     subcontainer: {
         flex: 0.9,

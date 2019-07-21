@@ -29,6 +29,6 @@ export default class CadastroLembrete extends Component {
 }
 const styles = StyleSheet.create({
     container: {
-        padding: 50
+        padding: 40
     }
 })
